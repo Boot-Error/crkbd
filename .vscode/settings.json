@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": [
+    "./firmware/kmk_firmware"
+  ],
+  "python.formatting.provider": "black"
+}
